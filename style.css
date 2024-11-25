@@ -35,3 +35,10 @@ form{
 /*
 margin:top right bottom left
 */
+
+.g-recaptcha
+{
+    margin:15px;
+    display: flex;
+    justify-content: center;
+}
